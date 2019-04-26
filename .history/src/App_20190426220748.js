@@ -5,7 +5,7 @@ import Facebook from './components/Facebook';
 function App() {
   return (
     <div className="App">
-     <h1>Facebook Auth Example</h1>
+     <h1>Facebook button</h1>
      <Facebook />
     </div>
   );

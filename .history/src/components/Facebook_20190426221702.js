@@ -37,8 +37,7 @@ class Facebook extends Component {
             margin: 'auto', background: '#f4f4f4',
             padding: '20px'}}>
               <img src={this.state.picture} alt={this.state.name} />
-              <h2>Welcome {this.state.name} !</h2>
-              <p>Email: {this.state.email}</p>
+              <h2>Welcome!</h2>
             </div>
          );
     } else {
